@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
  * main - A program that prints size of various computer types
  * Return: 0 (Success)
